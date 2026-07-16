@@ -1,3 +1,4 @@
+![logo](https://github.com/SLS80805/SLS80805/blob/main/WhatsApp%20Image%202026-07-16%20at%201.08.25%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 
 <h3 align="center">
