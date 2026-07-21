@@ -90,9 +90,7 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
-</p>
+
 
 <h3 align="center">
 ✨ Thanks for visiting my profile! ✨
